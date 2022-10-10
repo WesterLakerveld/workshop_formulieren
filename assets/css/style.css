@@ -1,0 +1,26 @@
+/* Formulier */
+form {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+label {
+    float: left;
+    width: 100px;
+    text-align: right;
+    margin-right: 15px;
+    
+}
+
+#contentformfieldset {
+    background-color: rgb(194, 255, 235);
+    height: auto;
+    width: 950px;
+    border: 10px solid rgb(0, 0, 0);
+    padding: 10px 10px 10px 10px;
+    margin-left: 200px;
+}
+
+
+
+
+/* Eind opmaak formulier */
